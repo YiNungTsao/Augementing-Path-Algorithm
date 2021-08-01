@@ -1,0 +1,21 @@
+﻿Build started 2021/4/25 下午 11:50:08.
+     1>Project "C:\Users\MB606\Desktop\Project\Project\Course\109下\Integer Programming and Network Analysis\0853337_曹議濃_HW4\0853337_曹議濃_HW4\0853337_曹議濃_HW4.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\0853337_曹議濃_HW4.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\0853337_曹議濃_HW4.unsuccessfulbuild".
+         Touching "Debug\0853337_曹議濃_HW4.lastbuildstate".
+     1>Done Building Project "C:\Users\MB606\Desktop\Project\Project\Course\109下\Integer Programming and Network Analysis\0853337_曹議濃_HW4\0853337_曹議濃_HW4\0853337_曹議濃_HW4.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
